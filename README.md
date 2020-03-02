@@ -1,5 +1,6 @@
 # CRC32Library
 Бибилиотека для рассчета контрольной суммы массива
+
 [![](https://jitpack.io/v/sizikoff/CRC32Library.svg)](https://jitpack.io/#sizikoff/CRC32Library)
 
 Step 1. Add the JitPack repository to your build file
