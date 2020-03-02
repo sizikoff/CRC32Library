@@ -1,0 +1,2 @@
+rootProject.name='CRC32Library'
+include ':sample',':crc32lib'
